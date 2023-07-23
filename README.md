@@ -1,2 +1,2 @@
 # Frontend
-Entrega Fronend Fullstack basico.
+Entrega Frontend Fullstack basico.
